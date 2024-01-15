@@ -60,7 +60,7 @@ linux_profile {
 
 # Network Profile
 network_profile {
-  load_balancer_sku = "Standard"
+  load_balancer_sku = "standard"
   network_plugin = "azure"
 }
 
